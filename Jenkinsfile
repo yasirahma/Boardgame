@@ -1,4 +1,4 @@
-pipeline {    lklkl  
+pipeline {
     agent any
     
     tools {
