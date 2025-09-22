@@ -1,4 +1,4 @@
-kljlkFROM openjdk:17-alpine  ...   
+kljlkFROM openjdk:17-alpine 
 EXPOSE 8080
 ENV APP_HOME /usr/src/app
 
